@@ -1,7 +1,38 @@
 {
-    "socialmediaapp": {
-        "Title": "Social media app",
-        "description": "blah",
-        "Order": 1
+    "schnack": {
+        "title": "Schnack - Live Chat",
+        "stack": "React Express.js NodeJS Socket.IO",
+        "description": "Full stack javascript live chat application created with ReactJS, express.js, NodeJS and socket.IO. Feel free to try it out by clicking on the demo button and/or view the source code on github by clicking the respective button.",
+        "order": 1
+    },
+    "wejournal": {
+        "title": "WeJournal - Social Media App",
+        "stack": "NodeJS Express.js JavaScript MongoDB Socket.IO",
+        "description": "Social media app where you can create posts, follow those you like, chat with others and much more! User authentication, live validation, socket.io, session storage and CRUD are the key aspects of this app. Feel free to use the guest login if you'd like: <b>Username: guest</b> <b>Password: qwertyqwerty</b>",
+        "order": 2
+    },
+    "thermox": {
+        "title": "Weather Forecast",
+        "stack": "ReactJS Tailwind",
+        "description": "Weather forecast app where you can track the weather in your desired location either by using the geolocation button or by a searchterm. My main role in this project was to create the add favorite location function using hooks and useContext.",
+        "order": 1
+    },
+    "kinodb": {
+        "title": "KinoDB - movie database",
+        "stack": "Angular Bootstrap",
+        "description": "Movie database created with the help of the TMDB Api. You can look through lists of popular, top rated and upcoming movies. In each list, you can filter through their rating (i.e PG-13, G, etc) as well as add the movies to your favorites list which is displayed with the help of localStorage.",
+        "order": 1
+    },
+    "npcstore": {
+        "title": "NPC Store",
+        "stack": "Laravel JavaScript Bootstrap jQuery",
+        "description": "This was a group project where I was mainly responsible for coming up with a store idea (instead of the originally assigned bookstore), the design as well as the functionality of the adding/removing items to the cart and placing/cancelling an order and their UX/UI aspects.",
+        "order": 1
+    },
+    "carrental": {
+        "title": "Car Rental - Admin App",
+        "stack": "PHP MySQL JavaScript Regex",
+        "description": "Administrative backend application where you can add/remove customers and cars, which are stored in the database MySQL. The main purpose is to register which cars a customer has rented/returned. Everything is logged in a history table which is displayed in the respective tab. When a customer is removed, their personal information is also removed from the history table according to GDPR. I've made sure that a customer can rent several cars, but a car cannot be owned by several people at once. Please note that this was my first time creating a backend website and applying simple validation. These functionalities are better displayed in the application WeJournal",
+        "order": 1
     }
 }
