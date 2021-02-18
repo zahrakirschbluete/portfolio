@@ -121,4 +121,13 @@ code {
   -webkit-transform: translateY(-3px);
           transform: translateY(-3px);
 }
+
+.btn-outline-custom {
+  border: 1px solid rgba(192, 50, 104, 0.822) !important;
+  padding: 0.75 rem;
+}
+
+.btn-outline-custom:active, .btn-outline-custom:hover {
+  background-color: rgba(192, 50, 104, 0.445);
+}
 /*# sourceMappingURL=index.css.map */

@@ -10,7 +10,7 @@ function Nav() {
 
 
     <div class="navbar-collapse collapse show" id="navbarTogglerDemo03">
-        <ul class="navbar-nav text-right mt-2 mt-lg-0">
+        <ul class="navbar-nav text-right mt-2 mt-lg-0 ml-auto">
             <li class="nav-item mr-5">
                 <a class="nav-link text-light" href="https://github.com/zahrakirschbluete" target="_blank">01. Skills</a>
             </li>
@@ -23,7 +23,7 @@ function Nav() {
             </li>
 
             <li class="nav-item active mr-5 nav-btn-color">
-                <a class="nav-link  text-light" href="#projects">Projects <span class="sr-only">Resume</span></a>
+                <a class="nav-link  text-light btn btn-outline-custom" href="#projects">Resume</a>
             </li>
         </ul>
 
