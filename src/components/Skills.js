@@ -5,7 +5,7 @@ import { FaPaintBrush, FaDatabase, FaTools, FaPhp } from 'react-icons/fa';
 
 function Skills() {
   return (
-    <aside role="complementary" className="container pr-5 pl-5 pt-3">
+    <aside role="complementary" className="container pr-5 pl-5 pt-3" id="skills">
 <h3 class="mb-3 display-4">SKILLS</h3>
     <div className="row">
         
