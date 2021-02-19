@@ -122,6 +122,15 @@ code {
           transform: translateY(-3px);
 }
 
+.color-custom {
+  color: rgba(192, 50, 104, 0.822) !important;
+}
+
+.line-border {
+  border-top: 1px solid rgba(182, 182, 182, 0.507);
+  border-bottom: 1px solid rgba(182, 182, 182, 0.507);
+}
+
 .btn-outline-custom {
   border: 1px solid rgba(192, 50, 104, 0.822) !important;
   padding: 0.75 rem;
@@ -129,5 +138,20 @@ code {
 
 .btn-outline-custom:active, .btn-outline-custom:hover {
   background-color: rgba(192, 50, 104, 0.445);
+}
+
+.top-7 {
+  top: 8rem;
+}
+
+@media (max-width: 768px) {
+  .order-sm {
+    -webkit-box-ordinal-group: 2 !important;
+        -ms-flex-order: 1 !important;
+            order: 1 !important;
+  }
+  .d-sidenav-none {
+    display: none !important;
+  }
 }
 /*# sourceMappingURL=index.css.map */
