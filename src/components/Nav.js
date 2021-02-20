@@ -16,7 +16,7 @@ function Nav() {
                 <a class="nav-link" href="#skills"><span className="color-custom">01.</span> <span className="text-light">Skills</span></a>
             </li>
             <li class="nav-item mr-5">
-                <a class="nav-link text-light" href="#projects" target="_blank"><span className="color-custom">02.</span> <span className="text-light">Projects</span></a>
+                <a class="nav-link text-light" href="#projects"><span className="color-custom">02.</span> <span className="text-light">Projects</span></a>
             </li>
             <li class="nav-item mr-5">
                 <a class="nav-link text-light" href="#contact"><span className="color-custom">03.</span> <span className="text-light">Contact</span></a>

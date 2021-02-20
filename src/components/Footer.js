@@ -48,12 +48,12 @@ function Footer() {
         </section>
       </div>
       <section role="region" class="footer__bottom">
-        <ul className="list-unstyled  w-50  w-sm-100 row m-0 mx-auto">
+        <ul className="list-unstyled w-sm-100 w-50 row m-0 mx-auto">
           <li className="a-glow col-4 p-0">
-          <a href="https://github.com/zahrakirschbluete/" className="color-custom"><FiGithub></FiGithub></a>
+          <a href="https://github.com/zahrakirschbluete/" target="_blank" className="color-custom"><FiGithub></FiGithub></a>
           </li>
           <li className="a-glow col-4 p-0">
-          <a href="https://www.linkedin.com/in/zahra-kirschbl%C3%BCte-078b51134/" className="color-custom"> <FiLinkedin></FiLinkedin></a>
+          <a href="https://www.linkedin.com/in/zahra-kirschbl%C3%BCte-078b51134/" target="_blank" className="color-custom"> <FiLinkedin></FiLinkedin></a>
           </li>
           <li className="a-glow col-4 p-0">
           <a href="mailto:zahra.kirschblute@hotmail.com" className="color-custom"> <FiMail></FiMail></a>

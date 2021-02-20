@@ -7,7 +7,6 @@ import Popper from 'popper.js';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import './style/index.css';
 
-
 ReactDOM.render(
   <React.StrictMode>
     <App />

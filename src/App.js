@@ -12,14 +12,6 @@ import Footer from './components/Footer';
 
 function App() {
 
-// var y = window.scrollY;
-
-// function bla() {
-//   if(y > 800) {
-//     document.getElementById("sidenav").addClass('d-none');
-//   }
-// }
-
   return (
     <div className="container-fluid p-0">
       {/* <SideNav></SideNav> */}
