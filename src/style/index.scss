@@ -183,11 +183,14 @@ code {
 .cursor-default {
   cursor: default !important;
 }
-@media (max-width: 768px) {
-
-  .order-sm {
+@media(max-width: 992px) {
+  .order-md {
     order: 1 !important;
   }
+}
+@media (max-width: 768px) {
+
+ 
   .d-sidenav-none {
     display: none !important;
   }

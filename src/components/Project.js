@@ -7,7 +7,7 @@ function Project(props) {
   return (
     <div className="row mb-5">
       <div
-        className={`col-12 col-md-6 col-lg-6 mt-lg-3 order-${props.order} order-sm`}
+        className={`col-12 col-lg-6 mt-lg-3 order-${props.order} order-md`}
       >
         <h3>{props.title}</h3>
         <p><i>{props.stack}</i></p>
@@ -25,7 +25,7 @@ function Project(props) {
         </div>
         </div>
       </div>
-      <div class="col-12 col-md-6 mt-lg-3">
+      <div class="col-12 col-lg-6 mt-lg-3">
         <img className="w-100" src={props.image} />
       </div>
     </div>
