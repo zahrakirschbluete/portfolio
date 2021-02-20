@@ -98,6 +98,7 @@ code {
     height: 90px;
     margin: 0px auto;
     background-color: black;
+    margin-top: 37px;
   }
 }
 
@@ -175,11 +176,25 @@ code {
 .very-tiny-text {
   font-size: 10px;
 }
+
+.mt-37px {
+  margin-top: 37px;
+}
+.cursor-default {
+  cursor: default !important;
+}
 @media (max-width: 768px) {
+
   .order-sm {
     order: 1 !important;
   }
   .d-sidenav-none {
     display: none !important;
+  }
+}
+
+@media(max-width: 380px) {
+  .w-sm-100 {
+    width: 100% !important;
   }
 }

@@ -1,4 +1,5 @@
 import React from "react";
+import resume from "../assets/CV-zahra_kirschbluete.pdf"
 
 
 function Nav() {
@@ -12,18 +13,18 @@ function Nav() {
     <div class="navbar-collapse collapse" id="navbarTogglerDemo03">
         <ul class="navbar-nav text-right mt-2 mt-lg-0 ml-auto">
             <li class="nav-item mr-5">
-                <a class="nav-link text-light" href="#skills">01. Skills</a>
+                <a class="nav-link" href="#skills"><span className="color-custom">01.</span> <span className="text-light">Skills</span></a>
             </li>
             <li class="nav-item mr-5">
-                <a class="nav-link text-light" href="#projects">02. Projects</a>
+                <a class="nav-link text-light" href="#projects" target="_blank"><span className="color-custom">02.</span> <span className="text-light">Projects</span></a>
             </li>
             <li class="nav-item mr-5">
-                <a class="nav-link text-light" href="CV-zahra_kirschbluete.pdf" target="_blank">03. Contact</a>
+                <a class="nav-link text-light" href="#contact"><span className="color-custom">03.</span> <span className="text-light">Contact</span></a>
 
             </li>
       
             <li class="nav-item active mr-5 nav-btn-color">
-                <a class="nav-link  text-light btn btn-outline-custom" href="#projects">Resume</a>
+                <a class="nav-link  text-light btn btn-outline-custom" href={resume} target="_blank" rel='noopener noreferrer'>Resume</a>
             </li>
         </ul>
 

@@ -48,7 +48,7 @@ function Footer() {
         </section>
       </div>
       <section role="region" class="footer__bottom">
-        <ul className="list-unstyled w-md-25 row m-0 mx-auto">
+        <ul className="list-unstyled  w-50  w-sm-100 row m-0 mx-auto">
           <li className="color-custom col-4 p-0">
             <FiGithub></FiGithub>
           </li>

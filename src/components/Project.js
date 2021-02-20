@@ -12,14 +12,17 @@ function Project(props) {
         <h3>{props.title}</h3>
         <p><i>{props.stack}</i></p>
         <p>{props.description}</p>
-        <div className="row p-3">
-          <a className="a-custom col-6">
+        <div className="row p-3 text-center">
+          <div  className="a-custom col-6 cursor-default">
+          <a href={props.github} className="a-custom" target="_blank">
             <FiGithub className="svg-size"></FiGithub>
           </a>
-
-          <a className="a-custom col-6">
+          </div>
+<div  className="a-custom col-6 cursor-default"> 
+          <a href={props.demo} className="a-custom" target="_blank">
             <FiEye className="svg-size"></FiEye>
           </a>
+        </div>
         </div>
       </div>
       <div class="col-12 col-md-6 mt-lg-3">

@@ -94,6 +94,7 @@ code {
   height: 90px;
   margin: 0px auto;
   background-color: black;
+  margin-top: 37px;
 }
 
 .rotate-90 {
@@ -186,6 +187,14 @@ code {
   font-size: 10px;
 }
 
+.mt-37px {
+  margin-top: 37px;
+}
+
+.cursor-default {
+  cursor: default !important;
+}
+
 @media (max-width: 768px) {
   .order-sm {
     -webkit-box-ordinal-group: 2 !important;
@@ -194,6 +203,12 @@ code {
   }
   .d-sidenav-none {
     display: none !important;
+  }
+}
+
+@media (max-width: 380px) {
+  .w-sm-100 {
+    width: 100% !important;
   }
 }
 /*# sourceMappingURL=index.css.map */
