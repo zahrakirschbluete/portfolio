@@ -32,7 +32,7 @@
         "description": "Movie database created with the help of the TMDB Api. You can look through lists of popular, top rated and upcoming movies. In each list, you can filter through their rating (i.e PG-13, G, etc) as well as add the movies to your favorites list which is displayed with the help of localStorage.",
         "order": 0,
         "image": "/static/media/u07movie-app.74f4e46e.png",
-        "demolink": "https://kinoxdb.netlify.app/movie",
+        "demolink": "https://kinoxdb.netlify.app/",
         "githublink": "https://github.com/zahrakirschbluete/u07-angular-movie-app"
     },
     "npcstore": {
