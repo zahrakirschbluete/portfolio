@@ -49,14 +49,14 @@ function Footer() {
       </div>
       <section role="region" class="footer__bottom">
         <ul className="list-unstyled  w-50  w-sm-100 row m-0 mx-auto">
-          <li className="color-custom col-4 p-0">
-            <FiGithub></FiGithub>
+          <li className="a-glow col-4 p-0">
+          <a href="https://github.com/zahrakirschbluete/" className="color-custom"><FiGithub></FiGithub></a>
           </li>
-          <li className="color-custom col-4 p-0">
-            <FiLinkedin></FiLinkedin>
+          <li className="a-glow col-4 p-0">
+          <a href="https://www.linkedin.com/in/zahra-kirschbl%C3%BCte-078b51134/" className="color-custom"> <FiLinkedin></FiLinkedin></a>
           </li>
-          <li className="color-custom col-4 p-0">
-            <FiMail></FiMail>
+          <li className="a-glow col-4 p-0">
+          <a href="mailto:zahra.kirschblute@hotmail.com" className="color-custom"> <FiMail></FiMail></a>
           </li>
         </ul>
       </section>

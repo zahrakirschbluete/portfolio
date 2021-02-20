@@ -26,7 +26,7 @@
         "demolink": "https://thermox.netlify.app/",
         "githublink": "https://github.com/nbdehlen/u09-react-weather-app"
     },
-    "kinodb": {
+    "kinoxdb": {
         "title": "KinoDB - movie database",
         "stack": "Angular Bootstrap",
         "description": "Movie database created with the help of the TMDB Api. You can look through lists of popular, top rated and upcoming movies. In each list, you can filter through their rating (i.e PG-13, G, etc) as well as add the movies to your favorites list which is displayed with the help of localStorage.",
