@@ -195,6 +195,10 @@ code {
   cursor: default !important;
 }
 
+.text-shadow {
+  text-shadow: 1px 1px 8px rgba(192, 50, 104, 0.171);
+}
+
 @media (max-width: 992px) {
   .order-md {
     -webkit-box-ordinal-group: 2 !important;
