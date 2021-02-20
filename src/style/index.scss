@@ -1,4 +1,6 @@
-$custom-color: rgba(192, 50, 104, 0.822);
+$color-custom-primary:  #50344a;
+$color-custom-secondary: rgba(192, 50, 104, 0.822);
+
 
 html {
   scroll-behavior: smooth;
@@ -71,6 +73,11 @@ code {
   }
 }
 
+
+.bg-custom-secondary {
+  background-color: rgb(201, 104, 141) !important;
+}
+
 .svg-size {
   transform: scale(1.5);
 }
@@ -113,14 +120,15 @@ code {
 .a-glow {
   color: black;
   &:hover {
-    color: $custom-color !important;
+    color: $color-custom-secondary !important;
     transform: translateY(-3px);
   }
 }
 
 .color-custom {
-  color: $custom-color !important;
+  color: $color-custom-secondary !important;
 }
+
 
 .line-border {
   border-top: 1px solid rgba(182, 182, 182, 0.507);
@@ -128,7 +136,7 @@ code {
 }
 
 .btn-outline-custom {
-  border: 1px solid $custom-color !important;
+  border: 1px solid $color-custom-secondary !important;
   padding: 0.75 rem;
   &:active,
   &:hover {
@@ -136,8 +144,36 @@ code {
   }
 }
 
+.footer__container {
+  display: flex;
+    flex-flow: column nowrap;
+    padding: 48px 24px;
+}
+
+.footer__bottom {
+  flex-flow: row wrap;
+    text-align: center;
+    padding: 24px;
+    background: #432c3e;
+}
+
+.btn-contact {
+  background-color: #000 !important;
+  border-radius: 0% !important;
+  &:hover {
+   background-color:  #212121 !important;
+  }
+}
+
+.bg-custom-primary {
+  background: $color-custom-primary;
+}
 .top-7 {
   top: 8rem;
+}
+
+.very-tiny-text {
+  font-size: 10px;
 }
 @media (max-width: 768px) {
   .order-sm {

@@ -1,20 +1,31 @@
 import React from "react";
 import profilePicture from '../assets/zahra.PNG'
 import Particles from 'react-particles-js';
+import {RiGameFill} from 'react-icons/ri';
+import {BsDot} from 'react-icons/bs'
 
 
 
 function Header() {
   return (
  <div className="particles-header p-0">
-           <div className="position-absolute text-center p-4 w-100 top-7">
+           <div className="position-absolute text-center p-4 w-100 top-7 text-white">
          
          <div>
              <img className="rounded-circle mb-2 profile-photo" src={profilePicture}/>
          </div>
-         <div><h1>Zahra Kirschblüte</h1>
-         <h2>Full Stack Developer</h2>
+         <div className="">
+             <h1>Zahra Kirschblüte</h1>
+         <h2 className="h1">Full Stack Developer</h2>
+         <RiGameFill/>
+    <BsDot/>
+    <BsDot/>
+    <BsDot/>
          <p>Solving problems, one task at a time.</p>
+
+         <div className="row">
+    
+         </div>
          </div>
      </div>
      {/* <div className="row position-absolute text-center p-4 w-lg-50 top-7">
