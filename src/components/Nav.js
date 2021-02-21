@@ -11,7 +11,7 @@ function Nav() {
 
 
     <div class="navbar-collapse collapse" id="navbarTogglerDemo03">
-        <ul class="navbar-nav text-right mt-2 mt-lg-0 ml-auto">
+        <ul class="navbar-nav text-right text-md-left mt-2 mt-lg-0 ml-auto">
             <li class="nav-item mr-5">
                 <a class="nav-link" href="#skills"><span className="color-custom">01.</span> <span className="text-light">Skills</span></a>
             </li>
@@ -24,7 +24,7 @@ function Nav() {
             </li>
       
             <li class="nav-item active mr-5 nav-btn-color">
-                <a class="nav-link  text-light btn btn-outline-custom" href={resume} target="_blank" rel='noopener noreferrer'>Resume</a>
+                <a class="nav-link  text-light btn btn-outline-custom btn-md-inline" href={resume} target="_blank" rel='noopener noreferrer'>Resume</a>
             </li>
         </ul>
 

@@ -191,6 +191,15 @@ code {
   .order-md {
     order: 1 !important;
   }
+  .text-md-left {
+    text-align: left !important;
+  }
+
+  .btn-md-inline{
+    display: inline-block !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
 }
 @media (max-width: 768px) {
 
