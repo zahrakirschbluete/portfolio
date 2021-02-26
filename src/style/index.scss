@@ -203,18 +203,6 @@ code {
 }
 
 
-.fade-out {
-  animation: fadeOut 1s;
-}
-
-
-@keyframes fadeOut {
-  from {
-    opacity: 1;
-  } to {
-    opacity: 0;
-  }
-}
 @media (max-width: 768px) {
 
  
@@ -226,5 +214,9 @@ code {
 @media(max-width: 380px) {
   .w-sm-100 {
     width: 100% !important;
+  }
+
+  .top-7 {
+    top: 4rem;
   }
 }
