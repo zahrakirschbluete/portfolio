@@ -17,7 +17,7 @@ const SideNav = () => {
           </li>
         </ul>
       </div>
-      <div className="position-fixed zindex-fixed bottom-right">
+      <div className="d-sidenav-none position-fixed zindex-fixed bottom-right">
         <div className="">
           <a
             className="a-glow text-decoration-none rotate-90"
