@@ -11,7 +11,7 @@ function Project(props) {
       >
         <h3>{props.title}</h3>
         <p><i>{props.stack}</i></p>
-        <p>{props.description}</p>
+        <p dangerouslySetInnerHTML={{ __html: `${props.description}` }}></p>
         <div className="row p-3 text-center">
           <div  className="a-custom col-6 cursor-default">
           <a href={props.github} className="a-custom" target="_blank">

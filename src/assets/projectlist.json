@@ -11,7 +11,7 @@
     "wejournal": {
         "title": "WeJournal - Social Media App",
         "stack": "NodeJS Express.js JavaScript MongoDB Socket.IO",
-        "description": "Social media app where you can create posts, follow those you like, chat with others and much more! User authentication, live validation, socket.io, session storage and CRUD are the key aspects of this app. Feel free to use the guest login if you'd like: <b>Username: guest<b /> <b>Password: qwertyqwerty<b />",
+        "description": "Social media app where you can create posts, follow those you like, chat with others and much more! User authentication, live validation, socket.io, session storage and CRUD are the key aspects of this app. Feel free to use the guest login if you'd like: <br/> <b>Username: guest</b> </br> <b>Password: qwertyqwerty</b>",
         "order": 0,
         "image": "static/media/wejournal.01222fcf.PNG",
         "demolink": "https://wejournal.herokuapp.com/",
