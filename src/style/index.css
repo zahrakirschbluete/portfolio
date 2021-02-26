@@ -215,6 +215,29 @@ code {
   }
 }
 
+.fade-out {
+  -webkit-animation: fadeOut 1s;
+          animation: fadeOut 1s;
+}
+
+@-webkit-keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
 @media (max-width: 768px) {
   .d-sidenav-none {
     display: none !important;
