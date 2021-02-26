@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../assets/CV-zahra_kirschbluete.pdf"
+import resume from "../assets/CV-Zahra_Kirschbluete.pdf"
 
 
 function Nav() {
