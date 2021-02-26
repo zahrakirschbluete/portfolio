@@ -9,7 +9,7 @@ import {BsDot} from 'react-icons/bs'
 function Header() {
   return (
  <div className="particles-header p-0 mb-5 text-shadow">
-           <div className="position-absolute text-center p-4 w-100 top-7 text-white">
+           <div className="position-absolute text-center p-4 w-100 top-header top-sm-header text-white">
          
          <div>
              <img className="rounded-circle mb-2 profile-photo" src={profilePicture}/>
