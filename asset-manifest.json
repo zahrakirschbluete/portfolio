@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.caf38e48.chunk.css",
-    "main.js": "/portfolio/static/js/main.0fb9bab8.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0fb9bab8.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.b3e4c0c2.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b3e4c0c2.js.map",
+    "main.css": "/portfolio/static/css/main.7325504b.chunk.css",
+    "main.js": "/portfolio/static/js/main.19bf8aeb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.19bf8aeb.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.728f8552.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.728f8552.js.map",
     "static/css/2.150d169a.chunk.css": "/portfolio/static/css/2.150d169a.chunk.css",
-    "static/js/2.a5512e92.chunk.js": "/portfolio/static/js/2.a5512e92.chunk.js",
-    "static/js/2.a5512e92.chunk.js.map": "/portfolio/static/js/2.a5512e92.chunk.js.map",
-    "static/js/3.97654559.chunk.js": "/portfolio/static/js/3.97654559.chunk.js",
-    "static/js/3.97654559.chunk.js.map": "/portfolio/static/js/3.97654559.chunk.js.map",
+    "static/js/2.6674b340.chunk.js": "/portfolio/static/js/2.6674b340.chunk.js",
+    "static/js/2.6674b340.chunk.js.map": "/portfolio/static/js/2.6674b340.chunk.js.map",
+    "static/js/3.6c4a46f3.chunk.js": "/portfolio/static/js/3.6c4a46f3.chunk.js",
+    "static/js/3.6c4a46f3.chunk.js.map": "/portfolio/static/js/3.6c4a46f3.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.150d169a.chunk.css.map": "/portfolio/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.caf38e48.chunk.css.map": "/portfolio/static/css/main.caf38e48.chunk.css.map",
-    "static/js/2.a5512e92.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a5512e92.chunk.js.LICENSE.txt",
+    "static/css/main.7325504b.chunk.css.map": "/portfolio/static/css/main.7325504b.chunk.css.map",
+    "static/js/2.6674b340.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6674b340.chunk.js.LICENSE.txt",
     "static/media/CV-zahra_kirschbluete.5b9208a8.pdf": "/portfolio/static/media/CV-zahra_kirschbluete.5b9208a8.pdf",
     "static/media/carrental.ecfe25dc.JPG": "/portfolio/static/media/carrental.ecfe25dc.JPG",
     "static/media/lilith.89ae4492.PNG": "/portfolio/static/media/lilith.89ae4492.PNG",
@@ -24,10 +24,10 @@
     "static/media/zahra.4eb30661.PNG": "/portfolio/static/media/zahra.4eb30661.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3e4c0c2.js",
+    "static/js/runtime-main.728f8552.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.a5512e92.chunk.js",
-    "static/css/main.caf38e48.chunk.css",
-    "static/js/main.0fb9bab8.chunk.js"
+    "static/js/2.6674b340.chunk.js",
+    "static/css/main.7325504b.chunk.css",
+    "static/js/main.19bf8aeb.chunk.js"
   ]
 }
