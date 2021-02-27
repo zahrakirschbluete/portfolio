@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b9ff6f39.chunk.css",
-    "main.js": "/portfolio/static/js/main.965319da.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.965319da.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.42c59308.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.42c59308.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.728f8552.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.728f8552.js.map",
     "static/css/2.150d169a.chunk.css": "/portfolio/static/css/2.150d169a.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.150d169a.chunk.css.map": "/portfolio/static/css/2.150d169a.chunk.css.map",
     "static/css/main.b9ff6f39.chunk.css.map": "/portfolio/static/css/main.b9ff6f39.chunk.css.map",
     "static/js/2.6674b340.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6674b340.chunk.js.LICENSE.txt",
-    "static/media/CV-Zahra_Kirschbluete.49d918f9.pdf": "/portfolio/static/media/CV-Zahra_Kirschbluete.49d918f9.pdf",
+    "static/media/CV-Zahra_Kirschbluete.20615c48.pdf": "/portfolio/static/media/CV-Zahra_Kirschbluete.20615c48.pdf",
     "static/media/carrental.ecfe25dc.JPG": "/portfolio/static/media/carrental.ecfe25dc.JPG",
     "static/media/lilith.89ae4492.PNG": "/portfolio/static/media/lilith.89ae4492.PNG",
     "static/media/schnack3.11188716.png": "/portfolio/static/media/schnack3.11188716.png",
@@ -28,6 +28,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.6674b340.chunk.js",
     "static/css/main.b9ff6f39.chunk.css",
-    "static/js/main.965319da.chunk.js"
+    "static/js/main.42c59308.chunk.js"
   ]
 }
