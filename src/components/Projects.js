@@ -18,8 +18,7 @@ function Projects() {
   <Project title = {projectlist.thermox.title} stack={projectlist.thermox.stack} description = {projectlist.thermox.description} order={projectlist.thermox.order} image={thermox} github={projectlist.thermox.githublink} demo={projectlist.thermox.demolink}></Project>
   <Project title = {projectlist.kinoxdb.title} stack={projectlist.kinoxdb.stack} description = {projectlist.kinoxdb.description} order={projectlist.kinoxdb.order} image={kinoxdb} github={projectlist.kinoxdb.githublink} demo={projectlist.kinoxdb.demolink}></Project>
   <Project title = {projectlist.npcstore.title} stack={projectlist.npcstore.stack} description = {projectlist.npcstore.description} order={projectlist.npcstore.order} image={npcstore} github={projectlist.npcstore.githublink} demo={projectlist.npcstore.demolink}></Project>
-  <Project title = {projectlist.carrental.title} stack={projectlist.carrental.stack} description = {projectlist.carrental.description} order={projectlist.carrental.order} image={carrental} github={projectlist.carrental.githublink} demo={projectlist.carrental.demolink}></Project>
-
+  
 </div>
   );
 }
