@@ -199,6 +199,10 @@ code {
   text-shadow: 1px 1px 8px rgba(192, 50, 104, 0.171);
 }
 
+.zindex-high {
+  z-index: 9999;
+}
+
 @media (max-width: 992px) {
   .order-md {
     -webkit-box-ordinal-group: 2 !important;
