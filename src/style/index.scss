@@ -169,9 +169,7 @@ code {
 .bg-custom-primary {
   background: $color-custom-primary;
 }
-.top-header {
-  top: 8rem;
-}
+
 
 .very-tiny-text {
   font-size: 10px;
@@ -186,6 +184,10 @@ code {
 
 .text-shadow{
   text-shadow: 1px 1px 8px rgba(192, 50, 104, 0.171);
+}
+
+.w-100vw {
+  width: 100vw !important;
 }
 @media(max-width: 992px) {
   .order-md {

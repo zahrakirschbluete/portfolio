@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../assets/CV-Zahra_Kirschbluete.pdf"
+import resume from "../assets/CV-zahra_kirschbluete.pdf"
 
 
 function Nav() {
@@ -20,7 +20,6 @@ function Nav() {
             </li>
             <li class="nav-item mr-5">
                 <a class="nav-link text-light" href="#contact"><span className="color-custom">03.</span> <span className="text-light">Contact</span></a>
-
             </li>
       
             <li class="nav-item active mr-5 nav-btn-color">

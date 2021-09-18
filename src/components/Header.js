@@ -8,15 +8,15 @@ import {BsDot} from 'react-icons/bs'
 
 function Header() {
   return (
- <div className="particles-header p-0 mb-5 text-shadow">
-           <div className="position-absolute text-center p-4 w-100 top-header top-sm-header text-white">
+ <div className="particles-header p-0 mb-5 text-shadow d-flex align-item-center justify-content-center">
+           <div className="position-absolute text-center p-4 w-100 top-sm-header text-white">
          
          <div>
              <img className="rounded-circle mb-2 profile-photo" src={profilePicture}/>
          </div>
          <div className="">
              <h1>Zahra Kirschblüte</h1>
-         <h2 className="h1">Full Stack Developer</h2>
+         <h2 className="h1">Software Developer</h2>
          <RiGameFill/>
     <BsDot/>
     <BsDot/>
@@ -28,17 +28,7 @@ function Header() {
          </div>
          </div>
      </div>
-     {/* <div className="row position-absolute text-center p-4 w-lg-50 top-7">
-         
-         <div className="col-6"> 
-             <img className="rounded-circle mb-2 profile-photo" src={profilePicture}/>
-         </div>
-         <div className="col-6"><h1>Zahra Kirschblüte</h1>
-         <h2>Full Stack Developer</h2>
-         <p>Solving problems, one task at a time.</p>
-         </div>
-     </div> */}
-<Particles
+<Particles className="w-100vw"
     params={{
 	    "particles": {
             "number": {
