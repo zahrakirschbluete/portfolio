@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.91b9ba66.chunk.css",
-    "main.js": "/portfolio/static/js/main.b0a1fff7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b0a1fff7.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.d4d86ec7.chunk.css",
+    "main.js": "/portfolio/static/js/main.dfd32b70.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.dfd32b70.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.728f8552.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.728f8552.js.map",
     "static/css/2.150d169a.chunk.css": "/portfolio/static/css/2.150d169a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.6c4a46f3.chunk.js.map": "/portfolio/static/js/3.6c4a46f3.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.150d169a.chunk.css.map": "/portfolio/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.91b9ba66.chunk.css.map": "/portfolio/static/css/main.91b9ba66.chunk.css.map",
+    "static/css/main.d4d86ec7.chunk.css.map": "/portfolio/static/css/main.d4d86ec7.chunk.css.map",
     "static/js/2.6674b340.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6674b340.chunk.js.LICENSE.txt",
     "static/media/CV_Zahra_Kirschbluete.766d1b40.pdf": "/portfolio/static/media/CV_Zahra_Kirschbluete.766d1b40.pdf",
     "static/media/carrental.ecfe25dc.JPG": "/portfolio/static/media/carrental.ecfe25dc.JPG",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.728f8552.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.6674b340.chunk.js",
-    "static/css/main.91b9ba66.chunk.css",
-    "static/js/main.b0a1fff7.chunk.js"
+    "static/css/main.d4d86ec7.chunk.css",
+    "static/js/main.dfd32b70.chunk.js"
   ]
 }
