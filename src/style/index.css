@@ -199,20 +199,20 @@ code {
   width: 100vw !important;
 }
 
-.w-100vw .zindex-high {
+.zindex-high {
   z-index: 9999;
 }
 
 @media (max-width: 992px) {
-  .w-100vw .order-md {
+  .order-md {
     -webkit-box-ordinal-group: 2 !important;
         -ms-flex-order: 1 !important;
             order: 1 !important;
   }
-  .w-100vw .text-md-left {
+  .text-md-left {
     text-align: left !important;
   }
-  .w-100vw .btn-md-inline {
+  .btn-md-inline {
     display: inline-block !important;
     padding-left: 10px !important;
     padding-right: 10px !important;
@@ -220,16 +220,16 @@ code {
 }
 
 @media (max-width: 768px) {
-  .w-100vw .d-sidenav-none {
+  .d-sidenav-none {
     display: none !important;
   }
 }
 
 @media (max-width: 380px) {
-  .w-100vw .w-sm-100 {
+  .w-sm-100 {
     width: 100% !important;
   }
-  .w-100vw .top-sm-header {
+  .top-sm-header {
     top: 4.5rem !important;
   }
 }
