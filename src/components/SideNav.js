@@ -4,7 +4,7 @@ import { FiGithub, FiLinkedin, FiMail } from "react-icons/fi";
 const SideNav = () => {
   return (
     <div id="sidenav">
-      <div className="d-sidenav-none position-fixed zindex-tooltip bottom-left">
+      <div className="d-sidenav-none position-fixed zindex-high bottom-left">
         <ul className="list-unstyled svg-size mb-4">
           <li>
             <a href="https://github.com/zahrakirschbluete/" target="_blank" className="a-glow"><FiGithub className=""></FiGithub> </a>
@@ -17,7 +17,7 @@ const SideNav = () => {
           </li>
         </ul>
       </div>
-      <div className="d-sidenav-none position-fixed zindex-fixed bottom-right">
+      <div className="d-sidenav-none position-fixed zindex-high bottom-right">
         <div className="">
           <a
             className="a-glow text-decoration-none rotate-90"

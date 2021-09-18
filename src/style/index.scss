@@ -20,9 +20,7 @@ body {
 code {
   display: inline-block;
   font-size: 16px;
-  // color: #fbfaf9;
   color: #666666 !important;
-  // background-color: #343a40;
   background-color: #fbfaf9;
   box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
     0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
@@ -172,7 +170,7 @@ code {
 
 
 .very-tiny-text {
-  font-size: 10px;
+  font-size: 0.6rem;
 }
 
 .mt-37px {
@@ -188,6 +186,8 @@ code {
 
 .w-100vw {
   width: 100vw !important;
+.zindex-high {
+  z-index: 9999;
 }
 @media(max-width: 992px) {
   .order-md {
@@ -221,4 +221,5 @@ code {
   .top-sm-header {
     top: 4.5rem !important;
   }
+}
 }

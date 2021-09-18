@@ -8,7 +8,7 @@ import {BsDot} from 'react-icons/bs'
 
 function Header() {
   return (
- <div className="particles-header p-0 mb-5 text-shadow d-flex align-item-center justify-content-center">
+ <div className="particles-header p-0 mb-5 text-shadow d-flex align-items-center justify-content-center">
            <div className="position-absolute text-center p-4 w-100 top-sm-header text-white">
          
          <div>
